@@ -1,5 +1,4 @@
 # first-project
-My personal repository 
 Hi there.
 Welcome to my first Git Repo.
 There's currently nothing in here but if you go to my account, you will get to see what
