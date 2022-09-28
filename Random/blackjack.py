@@ -1,8 +1,3 @@
-# convert celsius to fahrenheit
-celsius = float(input("Enter a temperature in Celsius: "))
-fahrenheit = (celsius * 1.8) + 32
-print("That is", fahrenheit, "degrees Fahrenheit.")
-
 # blackjack game
 import random
 print("Welcome to Blackjack!")
