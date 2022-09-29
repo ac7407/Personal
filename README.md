@@ -1,4 +1,4 @@
-# first-project
+# ac7407's Personal Repository
 Hi there. <br />
 Welcome to my Portfolio. <br />
 I am currently taking a course on Computational Physical Chemistry where I hope to gain a lot of experience in molecular modeling and in data analysis. <br />
